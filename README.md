@@ -4,4 +4,4 @@ This is a monolithic node.js REST API application and is put it into a container
 
 ## Created by Priyanka Kamlesh Bhatia
 
-This application was created as part of F21MP thesis completion.
+This application was created as part of thesis completion.
